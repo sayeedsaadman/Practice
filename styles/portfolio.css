@@ -1,0 +1,32 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+header{
+    background-color: #FFF8F3;
+    padding-top: 50px;
+}
+.logo h2{
+    font-size: 45px;
+    font-weight: 700;
+}
+.color-primary{
+    color:#FD6E0A;;
+}
+
+nav{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: auto;
+}
